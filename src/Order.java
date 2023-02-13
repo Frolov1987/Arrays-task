@@ -10,6 +10,8 @@ public class Order {
         for (String product : products) {
             ctn++;
             System.out.println(ctn + ") " + product);
+
         }
+
     }
 }
