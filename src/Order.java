@@ -5,7 +5,7 @@ public class Order {
 
     public static void main(String[] args) {
 
-        products = new String[]{"milk", "water", "buckwheat", "oil", "bear", "meet"};
+        products = new String[]{"milk", "water", "buckwheat", "oil", "bear", "meet", "bear"};
 
         for (String product : products) {
             ctn++;
